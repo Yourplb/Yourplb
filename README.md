@@ -36,11 +36,8 @@ Started learning Python, HTML and CSS, tried to write in JS. After solving 300+ 
 ![codewars](https://www.codewars.com/users/Artem%20Lapochka/badges/large)
 
 ### ⚙️ Badges
-<b>Top repositories and languages stats</b>
+<b>Languages stats</b>
 <div align="center">
-  <a href="https://github.com/Yourplb/PortfolioBlog">
-  <img height="195px" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Yourplb&repo=PortfolioBlog&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=1c1917&locale=en" />
-   </a>
-  <img align="right" height="195px" width="45%" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yourplb&layout=compact&theme=vision-friendly-dark" />
+  <img align="left" height="195px" width="45%" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yourplb&layout=compact&theme=vision-friendly-dark" />
 </div>
 
