@@ -22,10 +22,6 @@ Started learning Python, HTML and CSS, tried to write in JS. After solving 300+ 
 </p>
 
 ### 🤝 Socials
-<p align="left">
-  <a href="https://www.github.com/Yourplb" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36"                 height="36" />
-  </a>
   <a href="https://vk.com/yourcrush.hfnr" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="36" height="36" alt="VK Badge"/>
    </a>
